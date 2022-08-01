@@ -1,1 +1,1 @@
-# , their is a command the grants anybody that uses it admin in your server.. Be careful  :)
+ their is a command the grants anybody that uses it admin in your server.. Be careful  :) /superadmin remove it.
