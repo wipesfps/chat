@@ -1,1 +1,1 @@
- their is a command the grants anybody that uses it admin in your server.. Be careful  :) /superadmin remove it.
+ Take out your current chat resource and replace it with this one,follow the path [cfx-default]\[gameplay]\chat
